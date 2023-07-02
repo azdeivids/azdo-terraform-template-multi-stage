@@ -1,9 +1,9 @@
 variable location {
   type = string
 }
-variable application_name {
+variable app_name {
   type = string
 }
-variable environment_name {
+variable env_name {
   type = string
 }
