@@ -1,2 +1,2 @@
-location = "West US"
-application_name = "foo"
+location = "UK South"
+app_name = "foo"
